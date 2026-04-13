@@ -12,11 +12,12 @@ class MainApp extends StatelessWidget {
     return const MaterialApp(
       home: Scaffold(
         body: Center(
-          child: Text('Hello World!'),
+          child: Text('Testando o meu Birdle!'),
         ),
       ),
     );
   }
 }
-commit 2
-commit 3
+//commit 2
+//commit 3
+//commit 4 
