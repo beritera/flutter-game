@@ -18,8 +18,10 @@ class MainApp extends StatelessWidget {
     );
   }
 }
-//commit 2
-//commit 3
-//commit 4 
-//commit 5
-//commit 6
+//commit 1 - Configuração do Projeto
+//commit 2 - Criando Layout Inicial
+//commit 3 - Integrando o código base e rodando navegador no navegador Chrome
+//commit 4 - Testando o Hot Reload e Alterando o texto da Interface
+//commit 5 - Revisão do Widget Tree e HotReload Concluidos
+//commit 6 - Conclusão do Quiz sobre o runApp
+//commit 7 - Organizando e Nomeando os commits
